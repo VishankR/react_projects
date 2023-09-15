@@ -1,0 +1,31 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# person-list
+person-list/node_modules
+person-list/build
+person-list/coverage
+person-list/.pnp
+person-list/.pnp.js
+person-list/.DS_Store
+person-list/. env.local
+person-list/.env.development.local
+person-list/.env.test.local
+person-list/.env.production.local
+person-list/npm-debug.log*
+person-list/yarn-debug.log*
+person-list/yarn-error.log*
+
+# tutorial-second
+tutorial-second/node_modules
+tutorial-second/build
+tutorial-second/coverage
+tutorial-second/.pnp
+tutorial-second/.pnp.js
+tutorial-second/.DS_Store
+tutorial-second/. env.local
+tutorial-second/.env.development.local
+tutorial-second/.env.test.local
+tutorial-second/.env.production.local
+tutorial-second/npm-debug.log*
+tutorial-second/yarn-debug.log*
+tutorial-second/yarn-error.log*
