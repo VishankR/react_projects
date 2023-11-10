@@ -29,3 +29,18 @@ tutorial-second/.env.production.local
 tutorial-second/npm-debug.log*
 tutorial-second/yarn-debug.log*
 tutorial-second/yarn-error.log*
+
+# city-tours
+city-tours/node_modules
+city-tours/build
+city-tours/coverage
+city-tours/.pnp
+city-tours/.pnp.js
+city-tours/.DS_Store
+city-tours/. env.local
+city-tours/.env.development.local
+city-tours/.env.test.local
+city-tours/.env.production.local
+city-tours/npm-debug.log*
+city-tours/yarn-debug.log*
+city-tours/yarn-error.log*
